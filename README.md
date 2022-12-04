@@ -14,3 +14,4 @@ The thesaurus allows the user to
  Word of the day randomly genereates a number and displays the word and its attributes present in that line of the text file 'word.txt'
  Pattern wise search allows the user to search by prefixes and postfixes
  
+Search history, stores all the words the user has previously searched for in a text file 'history.txt'. The addfile functions allows the dynamic expansion of the thesaurus
